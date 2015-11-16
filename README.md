@@ -1,3 +1,5 @@
 # VR_Research
 
-This .bsp can be used in the Source 2013 engine to test memory for virtual reality.
+The .bsp file in the map folder can be used with the Source 2013 Half-Life 2: Episode 2 engine.
+
+The files within the textures folder are textures used within the environment.
