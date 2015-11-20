@@ -6,7 +6,10 @@
 ### Installation:
 To run this game, you must own Half-Life 2: Episode 2 and Half-Life 2.
 
-Download this and put it in /steam/steamapps/sourcemods/
+Download this and put it in
+```sh
+/steam/steamapps/sourcemods/
+```
 Restart Steam, vr_research is now in your game library.
 
 ### Info:
