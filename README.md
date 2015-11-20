@@ -4,7 +4,9 @@
 1.0
 
 ### Installation:
-To run this game, you must own Half-Life 2: Episode 2 and Half-Life 2.
+To run this game, you must install Source SDK Base 2013 Singleplayer.
+
+--To install Source SDK Base 2013 Singleplayer navigate to the tools in steam and right click and install it.
 
 Download this and put it in
 ```sh
