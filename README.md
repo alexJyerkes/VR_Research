@@ -18,6 +18,6 @@ Restart Steam, vr_research is now in your game library.
 This is a map to test candidates in Virtual Reality.
 VR_research_test2.bsp is a room that has objects the user must remember.
 
-PAPER_ROOM_DESCRIPTION is the paper that I gave to the paper group candidates.
+PAPER_ROOM_DESCRIPTION is the paper that I gave to the paper method candidates.
 
 OPEN_ENDED_TEST is the test that I administered to all training method groups.
